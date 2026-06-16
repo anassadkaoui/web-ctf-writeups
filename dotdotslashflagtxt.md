@@ -1,5 +1,3 @@
-# Path Traversal CTF Writeup
-
 ## Starting Point
 
 When I first read the challenge description I broke it down:
