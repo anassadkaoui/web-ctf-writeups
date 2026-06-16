@@ -1,3 +1,8 @@
+## Challenge Info
+
+- **CTF:** boroCTF
+- **CTFtime:** [boroCTF on CTFtime](https://ctftime.org/event/3309)
+
 ## Starting Point
 
 When I first read the challenge description I broke it down:
