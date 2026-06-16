@@ -81,12 +81,4 @@ Because `public/../` cancels out — `..` goes up from `public/` making it equiv
 
 **Result**
 
-I constructed the correct `file` parameter, sent it to the server, and got the flag.
-
-**What I Learned**
-
-- Read everything carefully, question everything
-- A vulnerability is the gap between what a developer intended and what the code actually allows
-- Error messages are feedback not failures
-- Reasoning beats guessing every time
-- This vulnerability is called Path Traversal
+I constructed the correct `file` parameter:file=../flag.txt, sent it to the server, and got the flag.
